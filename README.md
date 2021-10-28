@@ -25,7 +25,6 @@ npm i
 npm start
 ```
 
-3º Url da Aplicação
-
+Url da Aplicação: 
 [CRUD USERS](http://localhost:3000/)
 
